@@ -1,4 +1,4 @@
-سلام دوستان نود pipe network dev  
+Pipe Network Devnet Node 2.8 +
 
 ### به‌روز‌رسانی سیستم
 
