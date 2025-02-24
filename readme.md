@@ -42,10 +42,14 @@ sudo ./pop --signup-by-referral-route d236978702e5d355
 ```
 ### به‌روزرسانی نود:
 ```
-pop --refresh
+./pop --refresh
 ```
 ### پشتیبان‌گیری از فایل node_info.json:
 متن داخل فایل رو کپی کنید و ذخیره کنید یه جای امن ، مهمه!
 ```
 nano node_info.json
+```
+### راهنمای کامل نود 
+```
+./pop --help
 ```
